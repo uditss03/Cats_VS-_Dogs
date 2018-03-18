@@ -1,6 +1,6 @@
 # Cats_VS_Dogs
 
-Cats and Dogs images are classified using Keras with tensorflow-gpu backend.
+Cats and Dogs images are classified using **Keras with tensorflow-gpu backend.**
 
 ![tomand dog](https://user-images.githubusercontent.com/34382779/37469000-54fcf242-288a-11e8-82d3-e986ef4af395.jpg)
 
